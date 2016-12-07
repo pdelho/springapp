@@ -66,5 +66,6 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/spring-websocket-4.3.4.RELEASE.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/junit-4.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

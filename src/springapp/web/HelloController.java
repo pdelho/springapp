@@ -18,7 +18,7 @@ public class HelloController implements Controller {
 
     public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-
+    	//catalina.out
         logger.info("Returning hello view");
 
         return new ModelAndView("hello.jsp");
