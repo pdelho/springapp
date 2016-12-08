@@ -67,5 +67,10 @@
 	<classpathentry kind="lib" path="war/WEB-INF/lib/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="war/WEB-INF/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jakarta-taglibs-standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jstl-standard.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/standard.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
